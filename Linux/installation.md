@@ -16,7 +16,7 @@ ping
 netctl  
 cfdisk  
 
-wlp4s0 TessyKWH
+wlp4s0 - TessyKWH
 
 
 # Linux Aufgaben:
